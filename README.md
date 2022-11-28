@@ -8,5 +8,4 @@
 
 #### File 3
 * this File is a drawing program that follows youur mouse drawing a color changing line with in a canvas.
-=======
 #gh-magd
