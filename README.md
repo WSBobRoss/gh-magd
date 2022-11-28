@@ -1,4 +1,4 @@
-# gh-magd
+# gh-pages
 #### File 1
 * This first file is a simle black and white picture of a star system seen throught the veiwport of a spaceship.
 
